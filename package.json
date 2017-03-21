@@ -1,7 +1,7 @@
 {
   "name": "miniscroll_js",
   "version": "1.0.0",
-  "main": "miniscroll.js",
+  "main": "index.js",
   "title": "Miniscroll JS",
   "description": "Miniscroll-JS",
   "homepage": "https://github.com/rogerluiz/Miniscroll-JS",
